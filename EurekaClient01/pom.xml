@@ -8,11 +8,10 @@
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.daole.eurekaclient</groupId>
-    <artifactId>eurekaclient</artifactId>
+    <groupId>com.daole.eureakaclient01</groupId>
+    <artifactId>eureakaclient01</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>EurekaClient</name>
-    <packaging>jar</packaging>
+    <name>eureakaclient01</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
